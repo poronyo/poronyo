@@ -18,15 +18,9 @@
   </a>
 </div>
   
-
-
 <h1 align="center">hey there 👋</h1>
 
-
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-
 
 <p align="left">I'm poronyo from Thailand <br>
     <br>- 🛠️ I’m working as an Engineer 👨‍🔧⚡ resonsed in data science 💡and machine prediction🔌 in manufacturing. 
@@ -68,7 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-
 
 <code align="center" >In my current job most tool in data analytic and automation system project was made from python and sometimes minitab depend on what customer want.   </code>
 
