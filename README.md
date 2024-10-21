@@ -65,6 +65,13 @@
 
 <code align="center" >In my current job most tool in data analytic and automation system project was made from python and sometimes minitab depend on what customer want.   </code>
 
+<h3 align="center">👩‍💻  note to my self.</h3>
+
+<code align="center" style="border: 4px solid rgb(6, 39, 65); border-radius: 10px;">It's may very extremly hard time for you to fight againts your self but you still do it  
+    <br>uand that is what your are right. 
+    <br>Only tear is not enought to win
+</code>
+
 ###
 
 <div align="center">
