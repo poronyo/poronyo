@@ -67,17 +67,18 @@
 
 <h3 align="center">👩‍💻  note to my self.</h3>
 
-<code align="center" style="border: 4px solid rgb(6, 39, 65); border-radius: 10px;">It's may very extremly hard time for you to fight againts your self but you still do it  
-    <br>uand that is what your are right. 
-    <br>Only tear is not enought to win
-</code>
 
-###
 
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=poronyo&theme=highcontrast&border_radius=10" alt="GitHub Streak" /></a>
 <!--         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poronyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  /> -->
+</div>
+
+<div align="center" style="border: 4px solid rgb(6, 39, 65); border-radius: 10px;"> It's may very extremly hard time for you to fight. but you still do it  
+    <br>and that is what your are right?. 
+    <br>Only tear is not enought to win 
+    <br>one last question is what's againt you?
 </div>
 
 ###
