@@ -23,7 +23,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">I'm poronyo from Thailand <br>
-    <br>- 🛠️ I’m working as an Engineer 👨‍🔧⚡ resonsed in data science 💡and machine prediction🔌 in manufacturing. 
+    <br>- 🛠️ I’m working as an Electrical Engineer 👨‍🔧⚡ responsed in data science 💡and machine prediction🔌 in manufacturing. 
     <br>- 📚 Nowaday I'm currently improving in web development 
     <br>- ⏳ In my free time I'm a tutor teaching high school student in Physic🪫 and Math ⚡
 </p>
