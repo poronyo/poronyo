@@ -65,7 +65,6 @@
 
 <code align="center" >In my current job most tool in data analytic and automation system project was made from python and sometimes minitab depend on what customer want.   </code>
 
-<h3 align="center">👩‍💻  note to my self.</h3>
 
 
 
